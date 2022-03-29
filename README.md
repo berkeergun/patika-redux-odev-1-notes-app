@@ -1,3 +1,5 @@
+# Redux Notes App [Live Server](https://redux-notes-app-berke.surge.sh/)
+![redux-notes-app](./src/notes-app.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
